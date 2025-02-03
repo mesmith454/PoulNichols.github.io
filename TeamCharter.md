@@ -18,7 +18,10 @@ Team Charter Template (with User Stories)
 
     Core Values
 
-    Value 1: Value 2: Value 3: Value 4:
+    Value 1: 
+    Value 2: 
+    Value 3: 
+    Value 4:
 
 (Discuss and finalize the top 4-5 values you agree on)
 
