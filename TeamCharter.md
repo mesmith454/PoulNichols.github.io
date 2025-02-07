@@ -20,9 +20,9 @@ Team Charter Template (with User Stories)
 
     Team Members
 
-        Name: 
-        Strengths: 
-        Weaknesses: 
+        Name: Daquantis Acklin
+        Strengths: Energy, Optimism, Communication
+        Weaknesses: Organization
         Role:
 
         Name: Megan Mata 
