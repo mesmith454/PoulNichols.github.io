@@ -2,7 +2,7 @@
 
 Megan Mata
 Quantis Acklin*
-
+Kane Freeminn
 
 
 
