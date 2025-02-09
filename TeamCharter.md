@@ -29,6 +29,8 @@ Team Charter Template (with User Stories)
         Strengths: Attention to detail, research, organization 
         Weaknesses: Javascript 
         Role: 
+
+        Name: Kane Freeminn 
     
     (Repeat for each team member)
 
