@@ -31,6 +31,7 @@ Team Charter Template (with User Stories)
         Role: 
 
         Name: Kane Freeminn 
+        Strengths: Fast Learner, Critical Thinking
     
     (Repeat for each team member)
 
