@@ -110,7 +110,7 @@ By signing below, we agree to the expectations, responsibilities, and guidelines
 Team Member Signatures:
 
 Name 1: Megan Mata
-Name 2: _____________________
+Name 2: Kane Freeminn
 Name 3: _____________________
 Date: ______________________
 
