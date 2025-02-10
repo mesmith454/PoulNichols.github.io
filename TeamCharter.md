@@ -20,20 +20,20 @@ Team Charter Template (with User Stories)
 
     Team Members
 
-        Name: 
-        Strengths: 
-        Weaknesses: 
-        Role:
+        Name: Quantis Acklin
+        Strengths: Positive attitude, Communication
+        Weaknesses: Organization
+        Role:Developer
 
         Name: Megan Mata 
         Strengths: Attention to detail, research, organization 
         Weaknesses: Javascript 
-        Role: 
+        Role: Developer
 
         Name: Kane Freeminn 
         Strengths: Fast Learner, Critical Thinking
         Weaknesses: Overlook Small details, sometimes somewhat dum 
-        Role: 
+        Role: Developer
     
     (Repeat for each team member)
 
@@ -61,15 +61,15 @@ Team Charter Template (with User Stories)
 
     Roles and Responsibilities
 
-        Role 1: 
-            Responsibilities: 
-            Person(s) responsible: 
-        Role 2: 
-            Responsibilities: 
-            Person(s) responsible: 
-        Role 3: 
-            Responsibilities: 
-            Person(s) responsible:
+        Role 1: Developer 1
+            Responsibilities: TBD
+            Person(s) responsible: Megan Mata
+        Role 2: Developer 2
+            Responsibilities: TBD
+            Person(s) responsible: Kane Freemin
+        Role 3: Developer 3
+            Responsibilities: TBD
+            Person(s) responsible: Quantis Acklin
 
 (Include all major and secondary roles within the team)
 
@@ -79,12 +79,8 @@ Team Charter Template (with User Stories)
     Quality Standard 2: (e.g., Originality) 
     Quality Standard 3: (e.g., Depth of Research)
 
-    Milestones & Goals
-
-    Goal 1: (e.g., Complete the project plan by [date]) 
-    Milestone 1: (e.g., Review and approve project scope by [date]) 
-    Goal 2: (e.g., Launch the website by [date]) 
-    Milestone 2: (e.g., Final testing completed by [date])
+    Milestones & Goals:
+	TBD
 
     User Stories (Add User Stories in this section as part of your project requirements and goals)
 
@@ -111,6 +107,6 @@ Team Member Signatures:
 
 Name 1: Megan Mata
 Name 2: Kane Freeminn
-Name 3: _____________________
-Date: ______________________
+Name 3: Quantis Acklin
+Date: 02/09/2025
 
